@@ -2,7 +2,7 @@
 #
 ########################################################################
 #
-# MODULE:       v.buffer
+# MODULE:       v.buff
 # AUTHOR:       Ryan Molumby
 # PURPOSE:      Buffer
 # COPYRIGHT:    (C) 2017 Ryan Molumby
@@ -13,7 +13,7 @@
 ########################################################################
 
 #%module
-#% description: Adds a buffer to a stream
+#% description: Adds a buffer
 #% keyword: vector
 #%end
 #%option G_OPT_V_MAP
